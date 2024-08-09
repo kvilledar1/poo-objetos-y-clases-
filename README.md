@@ -4,12 +4,12 @@ Este sistema  de biblioteca en Java permite a los usuarios gestionar libros, inc
 
 Libro:  muestra un libro en la biblioteca.
 Usuario: muestra  un usuario de la biblioteca.
-Main: es  método `main` que ejecuta el programa 
+poo: es  método `main` que ejecuta el programa 
 
 Estructura del Proyecto
 Libro.java: Define la clase `Libro` con atributos para el título, autor y disponibilidad del libro. Incluye métodos para prestar y devolver libros.
 Usuario.java: Define la clase `Usuario` con atributos para el nombre del usuario y una lista de libros prestados. Incluye métodos para prestar y devolver libros así como para listar los libros prestados.
-Main.java: Contiene el método `main` que inicializa instancias de libros y usuarios y muestra como interactuar con el sistema.
+poo.java: Contiene el método `main` que inicializa instancias de libros y usuarios y muestra como interactuar con el sistema.
 
 Cómo Funciona el Sistema
 
